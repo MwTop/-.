@@ -1,7 +1,8 @@
 /********二倍回文数的判断******/ 
 /********author:MwangTop*******/
-#include "stdio.h"
 
+
+#include "stdio.h"
 int main(void)
 {
    long m;
